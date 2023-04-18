@@ -1,0 +1,154 @@
+,doc_id,text,text_normalized,category,subcategory,offset,confidence_score,text_nchar,offset_end
+0,0,65-year-old,human old age (65+),Age,,2,1.0,11,13
+1,0,woman,Woman,Gender,,14,1.0,5,19
+2,0,debulking surgery,Tumor Debulking,TreatmentName,,37,0.99,17,54
+3,0,bilateral,,Direction,,56,0.94,9,65
+4,0,oophorectomy,Ovariectomy,TreatmentName,,66,0.98,12,78
+5,0,omentectomy,Omentectomy (procedure),TreatmentName,,84,0.98,11,95
+6,0,total anterior hysterectomy,,TreatmentName,,97,0.99,27,124
+7,0,radical pelvic lymph nodes dissection,,TreatmentName,,130,0.98,37,167
+8,0,ovarian carcinoma,Ovarian Carcinoma,Diagnosis,,175,1.0,17,192
+9,0,mucinous-type carcinoma,,Diagnosis,,194,0.96,23,217
+10,0,stage Ic,,ConditionScale,,219,1.0,8,227
+11,0,1 year ago,,Time,,229,1.0,10,239
+12,0,chemotherapy,Chemotherapy,TreatmentName,,306,0.99,12,318
+13,0,cyclophosphamide,cyclophosphamide,MedicationName,,320,1.0,16,336
+14,0,750 mg/m2,,Dosage,,337,0.97,9,346
+15,0,carboplatin,carboplatin,MedicationName,,348,1.0,11,359
+16,0,300 mg/m2,,Dosage,,360,0.98,9,369
+17,0,palpable,,ConditionQualifier,,394,0.92,8,402
+18,0,right,,Direction,,403,0.98,5,408
+19,0,breast mass,Mass in breast,SymptomOrSign,,409,0.93,11,420
+20,0,15,,MeasurementValue,,422,0.96,2,424
+21,0,cm,,MeasurementUnit,,425,0.93,2,427
+22,0,right,,Direction,,468,0.98,5,473
+23,0,breast,Breast,BodyStructure,,474,0.98,6,480
+24,0,2 months,,Time,,484,1.0,8,492
+25,0,Core needle biopsy,Core needle biopsy,ExaminationName,,494,0.99,18,512
+26,0,metaplastic carcinoma,Metaplastic carcinoma,Diagnosis,,522,0.89,21,543
+27,0,Neoadjuvant chemotherapy,Neoadjuvant Chemotherapy,TreatmentName,,545,0.99,24,569
+28,0,Taxotere,Taxotere,MedicationName,,591,1.0,8,599
+29,0,75 mg/m2,,Dosage,,601,0.99,8,609
+30,0,Epirubicin,epirubicin,MedicationName,,612,1.0,10,622
+31,0,75 mg/m2,,Dosage,,624,0.99,8,632
+32,0,Cyclophosphamide,cyclophosphamide,MedicationName,,639,1.0,16,655
+33,0,500 mg/m2,,Dosage,,657,0.99,9,666
+34,0,6 cycles,,Dosage,,682,0.93,8,690
+35,0,poor response,Poor response,SymptomOrSign,,696,0.9,13,709
+36,0,modified radical mastectomy,Modified radical mastectomy,TreatmentName,,725,0.99,27,752
+37,0,MRM,Modified radical mastectomy,TreatmentName,,754,0.99,3,757
+38,0,dissection of axillary lymph nodes,Excision of axillary lymph nodes group,TreatmentName,,764,0.97,34,798
+39,0,skin grafting,Skin Transplantation,TreatmentName,,803,1.0,13,816
+40,0,radiotherapy,Therapeutic radiology procedure,TreatmentName,,835,0.99,12,847
+41,0,5000 cGy,,Dosage,,862,0.89,8,870
+42,0,histopathologic examination,Histopathology,ExaminationName,,892,0.99,27,919
+43,0,metaplastic carcinoma with squamous differentiation,,Diagnosis,,931,0.72,51,982
+44,0,adenomyoepithelioma,Adenomyoepithelioma,Diagnosis,,999,1.0,19,1018
+45,0,Immunohistochemistry study,,ExaminationName,,1020,0.83,26,1046
+46,0,tumor cells,"Tumor cells, uncertain whether benign or malignant",SymptomOrSign,,1063,0.69,11,1074
+47,0,epithelial markers-cytokeratin,,ExaminationName,,1092,0.86,30,1122
+48,0,AE1/AE3,,ExaminationName,,1124,0.92,7,1131
+49,0,stain,Staining method,ExaminationName,,1133,0.83,5,1138
+50,0,myoepithelial markers,,ExaminationName,,1144,0.61,21,1165
+51,0,cytokeratin 5/6,Cytokeratin 5+6,ExaminationName,,1177,0.75,15,1192
+52,0,CK 5/6,,ExaminationName,,1194,0.83,6,1200
+53,0,p63,"TP63 protein, human",ExaminationName,,1203,0.76,3,1206
+54,0,S100 stains,,ExaminationName,,1212,0.87,11,1223
+55,0,hormone receptors,Hormone Receptor,GeneOrProtein,,1240,0.79,17,1257
+56,0,ER,ESR1 gene,GeneOrProtein,,1269,0.68,2,1271
+57,0,PR,PGR gene,GeneOrProtein,,1273,0.87,2,1275
+58,0,Her-2/Neu,Oncogene ErbB2,GeneOrProtein,,1281,0.64,9,1290
+59,0,negative,,Expression,,1301,0.88,8,1309
+60,0,dissected,Dissecting,ExaminationName,,1315,0.7,9,1324
+61,0,axillary lymph nodes,Axillary lymph node group,BodyStructure,,1325,0.87,20,1345
+62,0,metastastic carcinoma,,Diagnosis,,1353,0.96,21,1374
+63,0,negative,,Expression,,1380,1.0,8,1388
+64,0,hormone receptors,Hormone Receptor,GeneOrProtein,,1389,0.79,17,1406
+65,0,nodes,Anatomic Node,BodyStructure,,1412,0.93,5,1417
+66,0,staged,With staging,ExaminationName,,1435,0.79,6,1441
+67,0,pT3N1aM0,,ConditionScale,,1445,0.68,8,1453
+68,0,histologic tumor,,ExaminationName,,1460,0.79,16,1476
+69,0,grade III,,ConditionScale,,1477,0.78,9,1486
+70,1,computed tomography,X-Ray Computed Tomography,ExaminationName,,16,1.0,19,35
+71,1,CT,X-Ray Computed Tomography,ExaminationName,,37,1.0,2,39
+72,1,abdomen,Abdomen,BodyStructure,,53,0.66,7,60
+73,1,pelvis,Pelvis,BodyStructure,,65,0.73,6,71
+74,1,complex,,ConditionQualifier,,88,0.91,7,95
+75,1,ovarian mass,Mass of ovary,SymptomOrSign,,96,0.93,12,108
+76,1,Pap smear,Pap smear,ExaminationName,,112,1.0,9,121
+77,1,one month later,,Time,,132,0.99,15,147
+78,1,atypical glandular cells,Atypical Glandular Cell,SymptomOrSign,,165,0.99,24,189
+79,1,adenocarcinoma,Adenocarcinoma,Diagnosis,,205,1.0,14,219
+80,1,pathologic specimen,Pathology specimen,ExaminationName,,225,0.95,19,244
+81,1,extension,Extension,SymptomOrSign,,252,0.79,9,261
+82,1,tumor,Neoplasms,Diagnosis,,269,0.93,5,274
+83,1,fallopian tubes,Fallopian Tubes,BodyStructure,,290,0.99,15,305
+84,1,appendix,Appendix,BodyStructure,,307,1.0,8,315
+85,1,omentum,Omentum,BodyStructure,,317,0.99,7,324
+86,1,enlarged lymph nodes,Lymphadenopathy,SymptomOrSign,,341,0.97,20,361
+87,1,pathologic,Pathology procedure,ExaminationName,,373,0.93,10,383
+88,1,tumor,Neoplasms,Diagnosis,,401,0.93,5,406
+89,1,stage IIIC,,ConditionScale,,411,1.0,10,421
+90,1,papillary serous ovarian adenocarcinoma,,Diagnosis,,422,0.99,39,461
+91,1,Two months later,,Time,,463,0.98,16,479
+92,1,lung metastases,Secondary malignant neoplasm of lung,Diagnosis,,512,1.0,15,527
+93,2,bone- marrow,Marrow (bone) - Specimen Entity Type,ExaminationName,,7,1.0,12,19
+94,2,BM,Marrow (bone) - Specimen Entity Type,ExaminationName,,21,1.0,2,23
+95,2,blasts,Blast (physical force),SymptomOrSign,,37,0.95,6,43
+96,2,88.1,,MeasurementValue,,58,0.99,4,62
+97,2,%,,MeasurementUnit,,62,0.76,1,63
+98,2,ANCs,Absolute neutrophil count,ExaminationName,,67,0.9,4,71
+99,2,positive,,Expression,,84,0.88,8,92
+100,2,CD9,CD9 gene,GeneOrProtein,,97,0.99,3,100
+101,2,CD10,MME gene,GeneOrProtein,,102,1.0,4,106
+102,2,CD13,ANPEP gene,GeneOrProtein,,108,0.99,4,112
+103,2,CD19,CD19 gene,GeneOrProtein,,114,0.99,4,118
+104,2,CD20,MS4A1 gene,GeneOrProtein,,120,0.99,4,124
+105,2,CD34,CD34 gene,GeneOrProtein,,126,0.99,4,130
+106,2,CD38,CD38 gene,GeneOrProtein,,132,1.0,4,136
+107,2,CD58,CD58 gene,GeneOrProtein,,138,0.99,4,142
+108,2,CD66c,CEACAM6 gene,GeneOrProtein,,144,0.98,5,149
+109,2,CD123,IL3RA gene,GeneOrProtein,,151,0.99,5,156
+110,2,HLA-DR,HLA-DR Antigens,GeneOrProtein,,158,0.99,6,164
+111,2,cCD79a,,GeneOrProtein,,166,0.99,6,172
+112,2,TdT,DNTT gene,GeneOrProtein,,178,0.99,3,181
+113,2,flow cytometry,Flow Cytometry,ExaminationName,,185,1.0,14,199
+114,2,serum tumor markers,,ExaminationName,,218,0.99,19,237
+115,2,elevated level,,MeasurementValue,,245,0.9,14,259
+116,2,fragment,Fragment of (qualifier value),ExaminationName,,278,0.84,8,286
+117,2,Cyfra21-1,Cytokeratin 19 Fragment 21-1 Measurement,ExaminationName,,288,0.96,9,297
+118,2,4.77,,MeasurementValue,,299,0.99,4,303
+119,2,ng/mL,,MeasurementUnit,,304,0.99,5,309
+120,2,neuron-specific enolase,Neuron specific enolase measurement,ExaminationName,,312,0.97,23,335
+121,2,NSE,Neuron specific enolase measurement,ExaminationName,,337,0.97,3,340
+122,2,19.60,,MeasurementValue,,342,0.99,5,347
+123,2,ng/mL,,MeasurementUnit,,348,0.99,5,353
+124,2,squamous cell carcinoma antigen,Squamous Cell Carcinoma Antigen Measurement,ExaminationName,,360,0.99,31,391
+125,2,SCCA,Squamous Cell Carcinoma Antigen Measurement,ExaminationName,,393,0.99,4,397
+126,2,2.58,,MeasurementValue,,399,1.0,4,403
+127,2,ng/mL,,MeasurementUnit,,404,1.0,5,409
+128,2,negative,,MeasurementValue,,429,0.92,8,437
+129,2,serum carbohydrate antigen 125,,ExaminationName,,442,0.99,30,472
+130,2,CA125,CA 125 measurement,ExaminationName,,474,1.0,5,479
+131,2,carcinoembryonic antigen,Carcinoembryonic antigen measurement,ExaminationName,,482,0.99,24,506
+132,2,CEA,Carcinoembryonic antigen measurement,ExaminationName,,508,0.99,3,511
+133,2,vascular endothelial growth factor,Vascular Endothelial Growth Factor Measurement,ExaminationName,,517,0.9,34,551
+134,2,VEGF,Vascular Endothelial Growth Factor Measurement,ExaminationName,,553,0.9,4,557
+135,2,Immunohistochemical staining,immunohistochemical stains procedure,ExaminationName,,560,1.0,28,588
+136,2,positive,,MeasurementValue,,596,0.87,8,604
+137,2,CK5/6,Cytokeratin 5/6 Immunohistochemical Expression,ExaminationName,,618,0.66,5,623
+138,2,P40,interleukin-9,ExaminationName,,625,0.72,3,628
+139,2,PD-L1,Programmed Death Ligand 1 Measurement,ExaminationName,,633,0.6,5,638
+140,2,80,,MeasurementValue,,642,0.61,2,644
+141,2,%,,MeasurementUnit,,644,0.99,1,645
+142,2,tumor cells,"Tumor cells, uncertain whether benign or malignant",SymptomOrSign,,646,0.7,11,657
+143,2,negative,,Expression,,664,1.0,8,672
+144,2,TTF-1,NKX2-1 gene,GeneOrProtein,,686,0.6,5,691
+145,2,PD-1,PDCD1 gene,GeneOrProtein,,693,0.6,4,697
+146,2,weakly positive,,Expression,,702,0.84,15,717
+147,2,ALK,ALK gene,GeneOrProtein,,731,0.93,3,734
+148,2,Molecular analysis,Molecular Analysis,ExaminationName,,736,0.99,18,754
+149,2,EGFR,EGFR gene,GeneOrProtein,,768,0.98,4,772
+150,2,mutation,,MutationType,,773,0.89,8,781
+151,2,ROS1,ROS1 gene,GeneOrProtein,,785,0.99,4,789
+152,2,fusion,,MutationType,,790,0.76,6,796
